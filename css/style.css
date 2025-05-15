@@ -1,0 +1,10 @@
+h1 {
+    color: green;
+    font-size: 2em;
+}
+body p span {
+    color: red;
+}
+span {
+    color: blue;
+}
